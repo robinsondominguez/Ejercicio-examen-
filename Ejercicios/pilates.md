@@ -15,3 +15,5 @@ los ejercicios a seguir son los siguientes:
 2. Estiramientos y relajación: Finaliza con ejercicios de estiramiento para mejorar la flexibilidad y liberar tensión.
 3. Movimientos controlados: Realiza los ejercicios de manera lenta y precisa, evitando movimientos bruscos.
 
+## consejos
+No tengo nada que decir.
