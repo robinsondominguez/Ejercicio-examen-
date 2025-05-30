@@ -6,4 +6,7 @@ El CrossFit es un tipo de entrenamiento que combina ejercicios funcionales varia
 ## Beneficios
 - Desarrollo completo e equilibrado del cuerpo humano, en terminos de fuerza, fisico.
 
-
+## Instrucciones
+- Asegúrate de mantener una buena técnica en cada movimiento, ya que esto es crucial para evitar lesiones y maximizar los resultados.
+- Dedica al menos 10 minutos a calentar antes de cualquier sesión de entrenamiento para aumentar la temperatura corporal y dinamizar los músculos.
+- No olvides el enfriamiento y estiramiento final para facilitar la recuperación muscular.
