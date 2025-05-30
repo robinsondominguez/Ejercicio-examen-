@@ -10,3 +10,8 @@ Entrenar la fuerza hace que tus musculos sean mas duros y durareros, ademas de p
 1. Comienza con un calentamiento de 10-15 minutos
 2. realiza los ejercicios que tu entrenador te vaya a poner
 3. siempre verifica que el peso que vas a cargar sea lo indicado
+
+# Consejos
+- toma agua cada vez que termines un ejercicio
+- no hagas ezfuerso de mas, puede romper musculos importantes.
+
