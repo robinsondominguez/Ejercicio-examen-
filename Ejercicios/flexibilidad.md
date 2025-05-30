@@ -12,3 +12,7 @@ la flexibilidad es tambien un caso importante en todos los seres vivos, ya que e
 - realiza ejercicios pasivos (sin contraccion muscular) para calentarse
 - realiza acto siguiente los ejercicios activos (contraccion muscular) para adentrarse en la area
 - y mayormente ejercicios asistidos, para que te guien mientras practicas estos ejercicios
+
+## consejos
+- manten alejado los objetos peligrosos o debiles.
+- no intentes doblarte.
