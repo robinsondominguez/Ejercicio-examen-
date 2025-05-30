@@ -11,3 +11,8 @@ boxeo es un ejercicio dificil y competitivo, ya que te pone a ejercitar todo el 
 - en este ejercicio rendirse no es una opcion, la unica opcion es ganar o derrota.
 - para esto bebe mucha agua, alimentate bien, entrena desde que te despiertes hasta tus limites.
 
+## Consejos.
+- un area muy letal y peligroso, los competidores no tendran piedad.
+- el unico objetivo es ser mejor que todos si o si
+- preferiblemente sea honesto y no busques peleas de mas, o si no tendras consecuencias.
+
