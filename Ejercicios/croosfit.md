@@ -10,3 +10,8 @@ El CrossFit es un tipo de entrenamiento que combina ejercicios funcionales varia
 - Asegúrate de mantener una buena técnica en cada movimiento, ya que esto es crucial para evitar lesiones y maximizar los resultados.
 - Dedica al menos 10 minutos a calentar antes de cualquier sesión de entrenamiento para aumentar la temperatura corporal y dinamizar los músculos.
 - No olvides el enfriamiento y estiramiento final para facilitar la recuperación muscular.
+
+## Consejos
+principalmente tenga buena tecnica y desempeño en el ejercicio croosfit, ya que este es muy demandante.
+no olvidar tu salus y hidratacion, para obtener buenos resultados sin muchos problemas.
+
