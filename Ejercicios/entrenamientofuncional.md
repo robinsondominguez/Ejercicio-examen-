@@ -13,3 +13,6 @@ El entrenamiento funcional es un enfoque que se centra en mejorar los movimiento
 2. Interpreta las señales que tu cuerpo manda, para verificar si el ejercicio se esta haciendo correctamente.
 3. Se puede aumentar la dificultad mientras mas dominio tienes con cualquier ejercicio, siempre y cuando respetando limites.
 
+## Consejos
+principalmente realiza este ejercicio tanto como puedas.
+come saludable y con los nutrientes necesarios, para un mejor resultado en cada ejercicio.
