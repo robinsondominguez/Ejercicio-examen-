@@ -14,3 +14,6 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta
 - Comienza con posturas sencillas como la postura de la montaña, la postura del árbol, la postura del perro y la postura del niño.
 - No te preocupes si nunca has practicado yoga antes. La práctica regular mejora la flexibilidad, fortalece los músculos y potencia la resistencia.
 -  Practica con calma y permite que tu cuerpo y mente se adapten a cada postura.
+
+## consejos
+Solo diviertete, no dejes que los pensamientos te invadan, y tampoco el ruido artificial de la humanidad.
